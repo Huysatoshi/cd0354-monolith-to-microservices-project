@@ -15,7 +15,7 @@ spec:
       containers:
         - name: frontend
           image: huysatoshi/udagram-frontend:local
-          imagePullPolicy: Never
+          imagePullPolicy: Always
           resources:
             requests:
               memory: "64Mi"
