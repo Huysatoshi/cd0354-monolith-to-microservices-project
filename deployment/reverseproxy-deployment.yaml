@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy
-          image: huysatoshi/udagram-reverseproxy:v1
+          image: huysatoshi/reverseproxy:v1
           imagePullPolicy: Always
           resources:
             requests:
