@@ -3,9 +3,9 @@ kind: ConfigMap
 metadata:
   name: env-config
 data:
-  AWS_BUCKET: udacityprojectbucket
+  AWS_BUCKET: project4-udacity-test
   AWS_PROFILE: default
   AWS_REGION: us-east-2
   POSTGRES_DB: postgres
-  POSTGRES_HOST: cdr-1.c47rwx4yk7z4.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: postgres.c52a8ufhgaip.us-east-2.rds.amazonaws.com
   URL: http://localhost:8100
