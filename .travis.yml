@@ -22,4 +22,4 @@ after_success:
   - docker push huysatoshi/udagram-api-user:v1
   - docker push huysatoshi/udagram-api-feed:v1
   - docker push huysatoshi/udagram-frontend:v1
-  - docker push huysatoshi/udagram-reverseproxy:v1
+  - docker push huysatoshi/reverseproxy:v1
