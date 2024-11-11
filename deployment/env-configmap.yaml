@@ -5,7 +5,7 @@ metadata:
 data:
   AWS_BUCKET: udacityprojectbucket
   AWS_PROFILE: default
-  AWS_REGION: us-east-1
+  AWS_REGION: us-east-2
   POSTGRES_DB: postgres
   POSTGRES_HOST: cdr-1.c47rwx4yk7z4.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100
